@@ -290,3 +290,4 @@
 10:37:02.331 [main] INFO  testCases.TC_005_AddingProductTest - *** Clicked shopping cart on confirmation message ***
 10:37:02.612 [main] INFO  testCases.TC_005_AddingProductTest - *** Validating if product is displayed in the shopping cart ***
 10:37:02.661 [main] INFO  testCases.TC_005_AddingProductTest - *** Finished TC_005_AddingProductTest ***
+14:03:43.597 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***

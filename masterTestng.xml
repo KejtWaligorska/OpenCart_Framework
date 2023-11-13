@@ -11,11 +11,11 @@
 	  </parameter>
     <classes>
       <class name="testBase.BaseClass"/>
-      <!--<class name="testCases.TC_001_AccountRegistrationTest"/>
+      <!--<class name="testCases.TC_001_AccountRegistrationTest"/> -->
       <class name="testCases.TC_002_LoginTest"/>
       <class name="testCases.TC_003_LoginDDT"/>
-      <class name="testCases.TC_004_SearchTest"/> -->
-      <class name="testCases.TC_005_AddingProductTest"/>
+      <!--<class name="testCases.TC_004_SearchTest"/>
+      <class name="testCases.TC_005_AddingProductTest"/> -->
     </classes>
   </test> <!-- OpencartTest -->
 </suite> <!-- OpencartSuite -->
